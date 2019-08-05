@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build:module": "vue-cli-service build --target lib src/module.js"
+    "build:module": "vue-cli-service build --target lib src/module-demo/main.js"
   },
   "dependencies": {
     "admincraft": "^1.0.1-0",
