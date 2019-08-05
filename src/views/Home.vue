@@ -1,7 +1,8 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <!-- 加载动态组件 -->
+    <component :is="$store.state.dynamicComponent.GLOBAL.logo"></component>
+    <HelloWorld msg="Vue + Admincraft = Micro Front-end"/>
   </div>
 </template>
 
