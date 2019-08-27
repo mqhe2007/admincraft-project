@@ -1224,10 +1224,10 @@ address@^1.0.3:
   resolved "https://registry.yarnpkg.com/address/-/address-1.1.0.tgz#ef8e047847fcd2c5b6f50c16965f924fd99fe709"
   integrity sha512-4diPfzWbLEIElVG4AnqP+00SULlPzNuyJFNnmMrLgyaxG6tZXJ1sn7mjBu4fHrJE+Yp/jgylOweJn2xsLMFggQ==
 
-admincraft@^1.0.1-0:
-  version "1.0.1-0"
-  resolved "https://registry.yarnpkg.com/admincraft/-/admincraft-1.0.1-0.tgz#95cd48671a111a0bd86ff9adc4e780de47533150"
-  integrity sha512-tn9eydgOBdIWfWbPVhe063Kjm0Mjc6hAyJE5+FiUN3V0Hp9gudQ86v3+U6meor3wmDnm4ul5CMNetlS4VE2h5Q==
+admincraft@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/admincraft/-/admincraft-1.0.1.tgz#2875de728b0c402897716b0686b89490155b88d3"
+  integrity sha512-Zo7FGfJa7gAJKHq5z29zn2pzkSiKqsK4yNVk5aSloLnTbfzI0PBo6COiuJTkyVBQwi3zfi7UaIAAo7k2onXsOg==
   dependencies:
     "@babel/polyfill" "^7.4.3"
     axios "^0.18.0"

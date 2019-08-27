@@ -8,7 +8,7 @@
     "build:module": "vue-cli-service build --target lib src/module-demo/main.js"
   },
   "dependencies": {
-    "admincraft": "^1.0.1-0",
+    "admincraft": "^1.0.1",
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
